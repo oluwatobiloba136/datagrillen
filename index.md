@@ -13,6 +13,7 @@ This Page serve as a presentation desk for `Tobi Kazeem` session at _DataGrillen
 * Walkthrough snippet
 * Relevant Documentation 
 * Power BI Report Link to ADF Connectors
+* ADF fact and figure
 
 ### Appreciation
 A special shout out to `Gabi Munster` for her mentorship and encouragement.
