@@ -1,0 +1,9 @@
+{
+	"name": "nja-adf-demo",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35386130-96c8-4024-baf1-d2ae21931cd3",
+		"tenantId": "0eef00a6-0aae-4c6c-afb2-69db877e59ef"
+	}
+}
